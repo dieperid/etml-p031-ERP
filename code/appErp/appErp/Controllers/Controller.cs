@@ -13,6 +13,7 @@ namespace appErp
     public class Controller
     {
         #region Attributs
+        private static readonly log4net.ILog _log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
         Model _model;
         View _view;
         #endregion
@@ -25,7 +26,7 @@ namespace appErp
         {
             _view = view;
             _model = model;
-            _view.Controller = this;
+            _view.Controller = this;           
             _model.Controller = this;
         }
         #endregion
