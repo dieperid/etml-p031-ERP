@@ -1,4 +1,8 @@
-﻿using System;
+﻿///ETML
+///Auteur : Alexis Rojas, Stefan Petrovic, David Dieperink, Samuel Hörler
+///Date : 01.12.2021
+///Description: 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +20,17 @@ namespace appErp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            //Création de la vue
+            View aView = new View();
+
+            //Création du modèle
+            Model aModel = new Model();
+
+            //Création du controlleur
+            Controller aController = new Controller(aView, aModel);
+
+            Application.Run(aView);
         }
     }
 }

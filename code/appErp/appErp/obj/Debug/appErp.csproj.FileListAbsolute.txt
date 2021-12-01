@@ -1,0 +1,9 @@
+E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\bin\Debug\appErp.exe.config
+E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\bin\Debug\appErp.exe
+E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\bin\Debug\appErp.pdb
+E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.csprojAssemblyReference.cache
+E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.Properties.Resources.resources
+E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.csproj.GenerateResource.cache
+E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.csproj.CoreCompileInputs.cache
+E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.exe
+E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.pdb
