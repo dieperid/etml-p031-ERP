@@ -21,14 +21,17 @@ namespace appErp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            //Création de la vue
-            View aView = new View();
+            //Création de la vue login
+            ViewLogin aView = new ViewLogin();
+
+            //Création de la vue tableau
+            ViewTable bView = new ViewTable();
 
             //Création du modèle
-            Model aModel = new Model();
+            ModelDBConnection aModel = new ModelDBConnection();
 
             //Création du controlleur
-            Controller aController = new Controller(aView, aModel);
+            Controller aController = new Controller(aView, aModel , bView);
 
             Application.Run(aView);
         }

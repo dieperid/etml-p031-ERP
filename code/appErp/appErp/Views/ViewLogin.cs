@@ -3,18 +3,12 @@
 ///Date : 01.12.2021
 ///Description: 
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace appErp
 {
-    public partial class View : Form
+    public partial class ViewLogin : Form
     {
         #region Attributs
         Controller _controller;
@@ -29,7 +23,7 @@ namespace appErp
         #endregion
 
         #region Constructeurs
-        public View()
+        public ViewLogin()
         {
             InitializeComponent();
         }
@@ -38,5 +32,22 @@ namespace appErp
         #region Methodes
         #endregion
 
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            Controller.Model.UserName = txtBoxUserName.Text;
+
+            Controller.Model.Password = txtBoxPassword.Text;
+
+            Controller.Model.DatabaseName = "db_test";
+
+            Controller.Model.Server = "localhost";
+
+            if(Controller.Model.Open())
+            {
+                MessageBox.Show("Bien joué mon ami !");
+
+                Controller.ViewTable.Show();
+            }
+        }
     }
 }
