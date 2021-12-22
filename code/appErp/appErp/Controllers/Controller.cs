@@ -15,7 +15,7 @@ namespace appErp
         #region Attributs
         private static readonly log4net.ILog _log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
         ModelDBConnection _model;
-        ViewLogin _view;
+        ViewLogin _viewLogin;
         ViewTable _viewTable;
         #endregion
 
@@ -24,6 +24,11 @@ namespace appErp
         {
             get { return _model; }
             set { _model = value; }
+        }
+        public ViewLogin ViewLogin
+        {
+            get { return _viewLogin; }
+            set { _viewLogin = value; }
         }
         public ViewTable ViewTable
         {
@@ -35,10 +40,10 @@ namespace appErp
         #region Constructeurs
         public Controller(ViewLogin view, ModelDBConnection model, ViewTable viewTable)
         {
-            _view = view;
+            _viewLogin = view;
             _model = model;
             _viewTable = viewTable;
-            _view.Controller = this;           
+            _viewLogin.Controller = this;           
             _model.Controller = this;
             _viewTable.Controller = this;
         }
