@@ -106,7 +106,21 @@ namespace appErp
             _connection.Close();
             _connection.Dispose();
         }
+        public DataTable GetData(string sqlCommand)
+        {
+            DataTable dtClient = new DataTable();
 
+            using (MySqlConnection con = new MySqlConnection(_strProvider))
+            {
+                using (MySqlCommand cmd = new MySqlCommand(sqlCommand, con))
+                {
+                    con.Open();
+                    MySqlDataReader reader = cmd.ExecuteReader();
+                    dtClient.Load(reader);
+                }
+            }
+            return dtClient;
+        }
         public DataSet ExecuteDataSet(string sql)
         {
             try
