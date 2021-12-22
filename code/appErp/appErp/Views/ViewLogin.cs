@@ -38,7 +38,7 @@ namespace appErp
 
             Controller.Model.Password = txtBoxPassword.Text;
 
-            Controller.Model.DatabaseName = "db_test";
+            Controller.Model.DatabaseName = "db_erp";
 
             Controller.Model.Server = "localhost";
 
