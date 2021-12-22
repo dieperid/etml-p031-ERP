@@ -40,7 +40,7 @@ namespace appErp
 
             Controller.Model.DatabaseName = "db_erp";
 
-            Controller.Model.Server = "localhost";
+            Controller.Model.Server = "192.168.109.130";
 
             if(Controller.Model.Open())
             {

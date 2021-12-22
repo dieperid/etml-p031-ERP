@@ -68,3 +68,38 @@ E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\bin\
 E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Numerics.Vectors.xml
 E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 E:\ETML\CFC\Pratique\Projets\P_Réseau_DEV\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.ViewTable.resources
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\appErp.exe.config
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\appErp.exe
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\appErp.pdb
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\BouncyCastle.Crypto.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\Google.Protobuf.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\K4os.Compression.LZ4.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\K4os.Hash.xxHash.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\log4net.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\MySql.Data.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Buffers.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Memory.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Numerics.Vectors.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\Ubiety.Dns.Core.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\ZstdNet.dll
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\Google.Protobuf.pdb
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\Google.Protobuf.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\K4os.Compression.LZ4.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\K4os.Hash.xxHash.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\log4net.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\MySql.Data.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Buffers.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Memory.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Numerics.Vectors.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.csprojAssemblyReference.cache
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.Properties.Resources.resources
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.ViewTable.resources
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.csproj.GenerateResource.cache
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.csproj.CoreCompileInputs.cache
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.csproj.CopyComplete
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.exe
+E:\CFC\2ème année\Projets\P-031_Réseau\etml-p031-ERP\code\appErp\appErp\obj\Debug\appErp.pdb
