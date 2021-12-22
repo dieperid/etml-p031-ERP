@@ -1,0 +1,14 @@
+Windows 10
+Username : pn93lny
+Password : 1234
+
+Debian
+
+Username : root		| SQL
+Password : pn93lny.ERP	| SQL
+
+Username : adminer
+Password : admin01.ERP
+
+Username : remote
+Password : remote01.ERP
